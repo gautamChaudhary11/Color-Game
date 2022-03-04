@@ -6,3 +6,5 @@ There are two levels in the game:
   2. <b>Hard:</b> You would be given with six blocks, one of them is correct.</br>
 # Aim
 Try to select the correct block in minimum amount of moves. After acheiving the task, you would be shown the number of moves you made to acheive the target.
+# Vercel Deployment
+The vercel deployment link for this project is https://color-game-o3sjreofj-gautamchaudhary11.vercel.app
